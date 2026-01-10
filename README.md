@@ -415,10 +415,4 @@ This project is provided as-is for educational and development purposes.
 
 ---
 
-## Author
-
-**Saumya Srivastava** - [@saumyasrivastava08](https://github.com/saumyasrivastava08)
-
----
-
 **Built with FastAPI and OpenAI**
